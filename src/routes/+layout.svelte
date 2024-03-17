@@ -4,4 +4,6 @@
 </script>
 
 <Navigation></Navigation>
-	<slot />
+	<div>
+		<slot/>
+	</div>

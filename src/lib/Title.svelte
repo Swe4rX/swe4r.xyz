@@ -10,6 +10,6 @@
 		-webkit-text-fill-color: transparent;
 		font-weight: 800;
 		width: fit-content;
-		letter-spacing: 0.1vw;
+		letter-spacing: -0.5vw;
 	}
 </style>

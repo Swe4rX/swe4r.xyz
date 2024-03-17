@@ -12,7 +12,7 @@
 		display: flex;
 		width:100%;
 		z-index: 1000;
-		backdrop-filter: blur(30px);
+		backdrop-filter: blur(10px);
 		background: transparent;
 		height: 3vw;
 		
@@ -22,15 +22,15 @@
 			flex-direction: row;
 			width: 60%;
 			justify-content: space-between;
+			font-weight: bold;
 			
 			& li > a {
 				border: none;
 				
 				&:hover {
-					color: aquamarine;
+					color: hotpink;
 				}
 			}
-			
 			& li {
 				font-size: x-large;
 			}
