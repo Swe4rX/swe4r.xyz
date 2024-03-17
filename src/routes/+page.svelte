@@ -27,7 +27,7 @@
 		-webkit-text-fill-color: #3F5EFB;
 	}
 	.z {
-		margin-right: 5px;
+		margin-right: 10px; /* fix the z getting cut */
 	}
 </style>
 
