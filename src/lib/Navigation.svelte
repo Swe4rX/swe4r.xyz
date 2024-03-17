@@ -12,9 +12,12 @@
 		display: flex;
 		width:100%;
 		z-index: 1000;
+		backdrop-filter: blur(30px);
 		background: transparent;
+		height: 3vw;
 		
 		& ul {
+			margin-top: 0.5vw;
 			display: flex;
 			flex-direction: row;
 			width: 60%;
@@ -22,7 +25,6 @@
 			
 			& li > a {
 				border: none;
-				
 				&:hover {
 					color: #f00;
 				}
