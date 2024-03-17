@@ -1,6 +1,7 @@
 <script>
 	import "../app.pcss";
+	import Navigation from "$lib/Navigation.svelte";
 </script>
 
-
-<slot />
+<Navigation></Navigation>
+	<slot />
