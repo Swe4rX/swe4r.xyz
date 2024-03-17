@@ -25,8 +25,9 @@
 			
 			& li > a {
 				border: none;
+				
 				&:hover {
-					color: #f00;
+					color: aquamarine;
 				}
 			}
 			
@@ -34,6 +35,5 @@
 				font-size: x-large;
 			}
 		}
-		
 	}
 </style>
