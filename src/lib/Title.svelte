@@ -4,7 +4,7 @@
 
 <style lang="postcss">
 	.title {
-		font-family: "Algerian", system-ui;
+		
 		background: -webkit-linear-gradient(0deg, #FC466B 0%, #3F5EFB 100%) center;
 		font-size: clamp(4rem, 4vw, 3000px);
 		-webkit-background-clip: text;
