@@ -28,7 +28,7 @@
 				border: none;
 				
 				&:hover {
-					color: hotpink;
+					color: hsl(var(--accent));
 				}
 			}
 			& li {

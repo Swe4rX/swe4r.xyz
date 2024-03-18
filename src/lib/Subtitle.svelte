@@ -7,6 +7,6 @@
 		font-size: clamp(4rem, 4vw, 3000px);
 		font-weight: 550;
 		letter-spacing: -.03em;
-		color: #444746;
+		color: hsl(var(--secondary));
 	}
 </style>
